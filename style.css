@@ -1,0 +1,45 @@
+.box1{
+	background-image: url(1.jpg);
+	height:5000px;
+	background-size: cover;
+	display: flex;
+}
+.box2{
+	background-image: url(3.jpg);
+	height: 550px;
+	padding-top: 520px;
+	
+	background-size: cover;
+}
+.p{
+	color: white;
+	font-size: 100px;
+}
+ .box3{
+ 	background-image: url(2.jpg);
+ 	background-color:red;height: 1500px;width: 1300px;
+   margin-right: 200px;
+   margin-left: 1500px;
+   margin-top: 300px;
+   background-size: cover;
+
+ 	    
+ }
+  .box4{
+ 	background-color:red;height: 1500px;width: 1300px;
+ 	background-image: url(4.jpg);
+ 	background-size: cover;
+ 	margin-top: 300px;
+}
+.button{
+	background-color: green;
+	height: 1000px;
+	width: 1800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 18px;
+}
+
+.test{
+	background-color: black; text-align:center;
+}
